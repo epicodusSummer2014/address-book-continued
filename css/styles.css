@@ -1,0 +1,13 @@
+#second-column, #third-column {
+  display:none;
+}
+
+.contact {
+cursor: pointer;
+color: blue;
+}
+
+.contact:hover {
+text-decoration: underline;
+color: red;
+}
